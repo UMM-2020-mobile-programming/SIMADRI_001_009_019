@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492971607832",
+    "firebase_url": "https://simadri-ee4c1.firebaseio.com",
+    "project_id": "simadri-ee4c1",
+    "storage_bucket": "simadri-ee4c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492971607832:android:3c145a7d41de893ee0006d",
+        "android_client_info": {
+          "package_name": "com.example.dwiky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492971607832-satd7ppt37uk8a30p6i3u9ulsuh5ne1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dwiky",
+            "certificate_hash": "6f5d5b3f1b3ecbc3b4cbf8a16efab46cada58f62"
+          }
+        },
+        {
+          "client_id": "492971607832-93m441qt9ai6487k8eda0g78ufglk6k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGfF0MKBetDnHcYf0BAIVfG4nLpc4zFEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492971607832-93m441qt9ai6487k8eda0g78ufglk6k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

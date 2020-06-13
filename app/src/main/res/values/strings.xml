@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">dwiky</string>
+    <string name="dashboardWelcome">
+        <font size="35">
+            Selamat siang,\n
+            <b>Dwiky Aprian Ashari</b>\n
+        </font>
+        _____________________________________\n
+        Status : <b><font color="GREEN">Aktif</font></b>\n
+        Surat Pending : <b>2</b>\n
+        Surat Sukses : <b>15</b>
+
+    </string>
+    <string name="alert_tidak">
+        Jika NIK tersebut benar milik anda tetapi terdapat data yang salah,
+        maka <b>silakan pergi ke kantor pelayanan desa untuk pengubahan data.</b>\n\n
+        Namun jika NIK tersebut bukan milik anda, <b><font color="#ff4567">maka jangan dilanjutkan, perbuatan tersebut sangat terlarang!</font></b>
+    </string>
+    <string name="welcomePostLogin">
+        <br>\n</br>
+        <br>
+            <b> NIK :</b> 201810370311019\n
+        </br>
+        <br>
+            <b>Nama :</b> Dwiky Aprian Ashari\n
+        </br>
+        <br>
+            <b>Desa :</b> Kesilir\n
+        </br>
+        <br>
+            <b>RT :</b> 4\n</br>
+        <br>
+            <b> RW :</b> 3\n
+        </br>
+    </string>
+</resources>
